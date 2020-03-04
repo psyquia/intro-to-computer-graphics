@@ -1,4 +1,4 @@
-**uses OpenGL**
+**Requires OpenGL**
 
 Ray Tracer by Paolo Sy-Quia
 ||CMPT 361 Fall 2019||
