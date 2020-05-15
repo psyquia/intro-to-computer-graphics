@@ -13,8 +13,8 @@ Scenes:
 2. reflections and shadows
 3. refraction (with index of refraction 1.5)
 4. large number of spheres with various combinations of diffuse, specular, reflection, and refraction effects to form a face with:
-  - refractive eyes
-  - reflective teeth
+  1. refractive eyes
+  1. reflective teeth
 5 - an alternate scene 4 with less objects
 
 ![GitHub Logo](screens/S2.jpg)
