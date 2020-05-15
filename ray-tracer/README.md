@@ -8,7 +8,7 @@ __Instructions:__
 
 Example "./rayT 3" to render scene 3
 
-__Scenes:__ _(in /screens)_  
+__Scenes:__ _(in /screens)_
 1. specular and diffuse
 2. reflections and shadows
 3. refraction (with index of refraction 1.5)
