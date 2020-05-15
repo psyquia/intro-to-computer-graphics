@@ -18,4 +18,4 @@ Scenes:
 	o reflective teeth
 5 - an alternate scene 4 with less objects
 
-![GitHub Logo](/screens/S1.jpg)
+![GitHub Logo](screens/S1.jpg)
