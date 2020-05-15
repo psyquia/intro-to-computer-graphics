@@ -1,6 +1,6 @@
 **Requires OpenGL**
 
-__Ray Tracer__ by Paolo Sy-Quia
+__Ray Tracer__ by Paolo Sy-Quia  
 _||CMPT 361 Fall 2019||_
 
 __Instructions:__
