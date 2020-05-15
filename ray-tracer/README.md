@@ -15,7 +15,7 @@ Scenes:
 4. large number of spheres with various combinations of diffuse, specular, reflection, and refraction effects to form a face with:
   1. refractive eyes
   1. reflective teeth
-5 - an alternate scene 4 with less objects
+5. an alternate scene 4 with less objects
 
 ![GitHub Logo](screens/S2.jpg)
 ![GitHub Logo](screens/S4b.jpg)
