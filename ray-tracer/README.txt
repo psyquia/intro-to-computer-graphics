@@ -17,3 +17,5 @@ Scenes:
 	o refractive eyes
 	o reflective teeth
 5 - an alternate scene 4 with less objects
+
+![GitHub Logo](/screens/S1.jpg)
