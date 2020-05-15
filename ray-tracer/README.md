@@ -1,14 +1,14 @@
 **Requires OpenGL**
 
-Ray Tracer by Paolo Sy-Quia
-||CMPT 361 Fall 2019||
+__Ray Tracer__ by Paolo Sy-Quia
+_||CMPT 361 Fall 2019||_
 
-Instructions:
-Run ./rayT (scene number)
+__Instructions:__
+* Run ./rayT (scene number)
 
 Example "./rayT 3" to render scene 3
 
-Scenes: (in /screens)
+__Scenes:__ _(in /screens)_
 1. specular and diffuse
 2. reflections and shadows
 3. refraction (with index of refraction 1.5)
