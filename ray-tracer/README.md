@@ -8,7 +8,7 @@ Run ./rayT (scene number)
 
 Example "./rayT 3" to render scene 3
 
-Scenes:
+Scenes: (in /screens)
 1. specular and diffuse
 2. reflections and shadows
 3. refraction (with index of refraction 1.5)
